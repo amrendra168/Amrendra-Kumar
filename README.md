@@ -17,13 +17,13 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://www.linkedin.com/in/amrendra-kumar-630062383/]">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="amrendrar168@gmail.com">
   <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/amrendra168">
   <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -49,7 +49,6 @@ engineer:
     - Designing scalable, production-grade software systems
     - Building AI/ML pipelines from data to deployment
     - Engineering full-stack applications with clean architecture
-    - Approaching every project with a product-first mindset
 
   philosophy: >
     I build software the way I'd want to inherit it — well-structured,
@@ -70,16 +69,16 @@ engineer:
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mysql,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb,redis&theme=dark" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman&theme=dark" />
 
 <br/>
 
