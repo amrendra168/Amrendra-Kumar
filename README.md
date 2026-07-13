@@ -17,10 +17,10 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="[https://www.linkedin.com/in/amrendra-kumar-630062383/]">
+<a href="https://www.linkedin.com/in/amrendra-kumar-630062383/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="amrendrar168@gmail.com">
+<a href="mailto:amrendrar168@gmail.com">
   <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/amrendra168">
@@ -29,9 +29,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=7c3aed&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/your-username?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Followers" />
-<img src="https://img.shields.io/github/stars/your-username?style=flat-square&color=a78bfa&labelColor=1a1a2e&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=amrendra168&style=flat-square&color=7c3aed&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/amrendra168?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/amrendra168?style=flat-square&color=a78bfa&labelColor=1a1a2e&label=Stars" />
 
 </div>
 
@@ -51,8 +51,11 @@ engineer:
     - Engineering full-stack applications with clean architecture
 
   philosophy: >
-    I build software the way I'd want to inherit it — well-structured,
-    well-documented, and built to scale beyond the first version.
+    -I build software the way I'd want to inherit it — well-structured,
+     well-documented, and built to scale beyond the first version.
+
+    -I believe machine learning is more than building models—it's about understanding
+     data, asking the right questions, and creating solutions that make a difference.
 
   open_to:
     - Software Engineering Internships / Full-Time Roles
@@ -90,12 +93,11 @@ engineer:
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Regression, classification, ensemble models, model evaluation & tuning |
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Regression, classification, Dicision Tree, LDA and PCA, Naive Bays,  ensemble models, model evaluation & tuning |
 | **Data Preprocessing & EDA** | ⭐⭐⭐⭐⭐ | Feature engineering, data cleaning, statistical analysis with Pandas/NumPy |
-| **Deep Learning** | ⭐⭐⭐☆☆ | Neural network fundamentals, TensorFlow/PyTorch basics |
 | **Data Visualization** | ⭐⭐⭐⭐⭐ | Matplotlib, Seaborn — dashboards & analytical reporting |
 | **Model Deployment** | ⭐⭐⭐☆☆ | Flask-based ML API integration, end-to-end pipeline delivery |
-| **Applied ML Projects** | ⭐⭐⭐⭐☆ | Salary prediction, risk prediction, expense forecasting pipelines |
+| **Applied ML Projects** | ⭐⭐⭐⭐☆ | Salary prediction, risk prediction, Health Risk Prediction Model|
 
 </div>
 
@@ -118,7 +120,7 @@ A premium, SaaS-grade web application delivering AI-powered diabetes risk predic
 | **Performance** | Optimized asset loading, lightweight vanilla JS with no framework overhead |
 | **Security** | Input validation, sanitized form handling, API-ready auth hooks |
 | **Impact** | Demonstrates end-to-end ML product thinking from UI to inference layer |
-| **Repository** | [View Repository](https://github.com/your-username/glucosense) |
+| **Repository** | [View Repository](https://github.com/amrendra168/glucosense) |
 
 Designed with a premium SaaS aesthetic, GlucoSense showcases the ability to translate an ML model into a polished, user-facing product — bridging the gap between data science and real-world usability.
 
