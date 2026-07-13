@@ -301,7 +301,10 @@ Actively engaged in building production-style software across ML, full-stack, an
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/amrendra168/amrendra168/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/amrendra168/amrendra168/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 <br/>
