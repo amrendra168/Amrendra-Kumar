@@ -248,17 +248,11 @@ Actively engaged in building production-style software across ML, full-stack, an
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username">
+<a href="https://leetcode.com/amrendra168">
   <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/your-username">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/your-username">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/your-username">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://codeforces.com/profile/amrendra18">
+  <img src="https://img.shields.io/badge/Codeforces-4C1D95?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 </div>
@@ -271,12 +265,12 @@ Actively engaged in building production-style software across ML, full-stack, an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrendra168&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendra168&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrendra168&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 </div>
 
@@ -287,7 +281,7 @@ Actively engaged in building production-style software across ML, full-stack, an
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=amrendra168&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 <br/>
@@ -297,7 +291,7 @@ Actively engaged in building production-style software across ML, full-stack, an
 ## 📈 Contribution Activity
 
 <div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amrendra168&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" />
 </div>
 
 <br/>
@@ -307,7 +301,7 @@ Actively engaged in building production-style software across ML, full-stack, an
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/amrendra168/amrendra168/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
@@ -345,13 +339,13 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:amrendrar168@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/amrendra-kumar-630062383/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/amrendra168">
   <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://your-portfolio-link.com">
